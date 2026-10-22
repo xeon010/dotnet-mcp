@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "dotnet-mcp": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "/Users/troymuehlbauer/Documents/dotnet-mcp/dotnet-mcp.csproj"
+      ],
+      "env": {}
+    }
+  }
+}
