@@ -29,5 +29,5 @@ builder.Services
     .AddMcpServer()
     .WithStdioServerTransport()
     .WithTools<CanvasMcpTools>();
-
+ 
 await builder.Build().RunAsync();
