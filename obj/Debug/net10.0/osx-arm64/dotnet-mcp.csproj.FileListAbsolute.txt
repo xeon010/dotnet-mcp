@@ -234,3 +234,4 @@
 /Users/troymuehlbauer/Documents/dotnet-mcp/obj/Debug/net10.0/osx-arm64/ref/dotnet-mcp.dll
 /Users/troymuehlbauer/Documents/dotnet-mcp/bin/Debug/net10.0/osx-arm64/Microsoft.Extensions.Http.dll
 /Users/troymuehlbauer/Documents/dotnet-mcp/bin/Debug/net10.0/osx-arm64/appsettings.json
+/Users/troymuehlbauer/Documents/dotnet-mcp/obj/Debug/net10.0/osx-arm64/dotnet-mcp.sourcelink.json
