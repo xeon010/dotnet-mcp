@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace Mcp.Models;
+namespace Mcp.Models.Assignments;
 public record Assignment(
     [property: JsonPropertyName("id")] int Id, 
     [property: JsonPropertyName("description")] string Description, 
